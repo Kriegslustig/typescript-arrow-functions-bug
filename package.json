@@ -1,0 +1,23 @@
+{
+  "name": "typescript-arrow-functions-bug",
+  "version": "1.0.0",
+  "description": "A repo demonstrating a bug in the TypeScript arrow function compilation",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kriegslustig/typescript-arrow-functions-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kriegslustig/typescript-arrow-functions-bug/issues"
+  },
+  "homepage": "https://github.com/Kriegslustig/typescript-arrow-functions-bug#readme",
+  "dependencies": {
+    "typescript": "1.8.10"
+  }
+}
